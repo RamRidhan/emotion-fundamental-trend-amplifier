@@ -19,16 +19,29 @@ Traditional statistical models and single-source ML approaches fail to capture h
 ---
 
 ## Data
-The dataset spans **2009–2024** and covers **502 S&P 500 stocks**, with approximately **420,000 weekly observations**.
 
-**Data sources**
-- **Fundamentals:** profitability, leverage, liquidity, valuation ratios  
-- **Macroeconomic indicators:** inflation, interest rates, growth signals  
-- **Investor sentiment:** sentiment scores from Reddit posts and earnings calls  
-- **Cross-market signals:** Bitcoin, oil, VIX and related market indicators  
+The dataset used in this project was **constructed by us** by aggregating and aligning multiple structured and unstructured data sources.  
+It spans **2009–2024** and covers **502 S&P 500 stocks**, resulting in approximately **420,000 weekly observations**.
 
-📎 **Public dataset (Kaggle):**  
+### Data Sources
+
+- **Fundamentals**  
+  Company-level financial ratios including profitability, leverage, liquidity, and valuation metrics.
+
+- **Macroeconomic indicators**  
+  Inflation measures, interest rates, and growth-related signals sourced from public macroeconomic data.
+
+- **Investor sentiment**  
+  Sentiment scores derived from large volumes of text data, including Reddit posts and earnings call transcripts.
+
+- **Cross-market signals**  
+  Auxiliary market indicators such as Bitcoin, oil prices, the VIX, and related assets capturing broader market dynamics.
+
+The final, cleaned dataset is publicly available on Kaggle:
+
+📎 **Kaggle Dataset:**  
 https://www.kaggle.com/datasets/chitamvuong/st456-final-dataset-of-deep-visionaries/data
+
 
 ---
 
