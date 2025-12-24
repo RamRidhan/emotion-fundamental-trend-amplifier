@@ -121,5 +121,4 @@ Models are assessed using:
 ## Notes
 This repository contains a **cleaned and independent version** of work originally developed in a collaborative academic setting.
 
-All **course identifiers, group labels, and submission artifacts** have been removed.  
 The project is presented for **professional, reproducible, and portfolio use**.
