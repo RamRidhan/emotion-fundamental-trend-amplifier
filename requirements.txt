@@ -1,0 +1,21 @@
+# Core
+numpy
+pandas
+scikit-learn
+
+# Deep learning
+tensorflow
+torch
+
+# Time-series & transformers
+xgboost
+
+# Interpretability
+shap
+
+# Visualisation
+matplotlib
+seaborn
+
+# Utilities
+tqdm
